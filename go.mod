@@ -1,4 +1,4 @@
-module github.com/khamontip/school
+module school
 
 go 1.12
 
